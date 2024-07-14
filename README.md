@@ -7,8 +7,7 @@ I'm a passionate software engineer with a love for building scalable web applica
 - **Frameworks**: React, Node.js, Spring Boot
 
 ## 📈 Projects
-- [Awesome Project](https://github.com/username/awesome-project): A web app that does amazing things.
-- [Another Project](https://github.com/username/another-project): A tool for making life easier.
+- [Truyenqq Replica](https://github.com/luanvo2911/truyenqq-next.git): Clone Truyenqq using Mangadex API.
 
 ## 📫 Contact
 - [Email](mailto:luan.vo2911@gmail.com)
@@ -17,6 +16,7 @@ I'm a passionate software engineer with a love for building scalable web applica
 ## 🌱 Currently Learning
 - Java Spring Boot
 - Nextjs
+- Kafka Streaming, Hadoop for Data Engineering
 
 
 <!--
