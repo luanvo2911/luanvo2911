@@ -8,6 +8,7 @@ I'm a passionate software engineer with a love for building scalable web applica
 
 ## 📈 Projects
 - [Truyenqq Replica](https://github.com/luanvo2911/truyenqq-next.git): Clone Truyenqq using Mangadex API.
+- [AVSQ Landing Page](www.avsq.info): A landing page for AVSQ (The Association of Vietnamese Student in Queensland)
 
 ## 📫 Contact
 - [Email](mailto:luan.vo2911@gmail.com)
